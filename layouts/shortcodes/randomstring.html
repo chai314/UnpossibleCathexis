@@ -1,0 +1,48 @@
+<script>
+    const encodedStrings = [
+        "A continuation of the dream you saw yesterday",
+        "What subculture is evinced by Ike's clothes and his shtick,\n\
+        by the non-Semitic contours of his nose and his dick?",
+        "Lambent wit and verve",
+        "Always searching the silent type",
+        "For the grudging approbation of a few friends",
+        "Pounding frayed nerves into compliance",
+        "Could you mess things up a little?",
+        "A thundering round of applause you've awaited",
+        "Military-grade ass cheese",
+        "It looks like tech this time",
+        "Linger listless, in limbo languid",
+        "The inverse of latent untruth",
+        "Klein-bottled bag of tricks",
+        "The far side of the moon",
+        "Written wearing wrist weights",
+        "Catachresis of catachresis",
+        "Kochar: \"Abey, propensity ka matlab kya hota hai?\" \n \"Proclivity.\"",
+        "To sashay, or chassé today",
+        "He meows back at cats",
+        "¿Por qué no los dos?",
+        "Who the FUCK is jayant mittal?",
+        "Drop-dead typical",
+        "A monad is a monoid in the category of endofunctors",
+        "Diglyme ether is an ether with an ether-like odor",
+        "Couldn't care less for those danceless nights",
+        "A tale told by an idiot, full of sound and fury,\n signifying nothing.",
+        "Noon will be a kiln",
+        "I was an infinitely hot and dense dot",
+        "Tabasco of infinite zest",
+        "Do I like what you like?",
+        "I've been dreaming every night lately",
+        "An identity function, an old familiar friend.",
+        "Riding on a missile with a cowboy hat",
+        "i have eaten\n the plums",
+
+    ];
+
+
+    const displaystring = encodedStrings[Math.floor(Math.random() * encodedStrings.length)];
+    document.addEventListener("DOMContentLoaded", function() {
+        document.getElementById('random-string').innerText = displaystring;
+    });
+</script>
+
+<p id="random-string"></p>
