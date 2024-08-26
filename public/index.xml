@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/UnpossibleCathexis/</link>
     <description>Recent content on /ʌnˈpɒsɪbəl/ kəˈθɛk sɪs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>I sense licenselessness</copyright>
-    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/UnpossibleCathexis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/random/</link>
+      <link>http://localhost:1313/UnpossibleCathexis/random/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/random/</guid>
+      <guid>http://localhost:1313/UnpossibleCathexis/random/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Strong Kitty Highway Heartbreak</title>
-      <link>http://localhost:1313/posts/skhh/</link>
+      <link>http://localhost:1313/UnpossibleCathexis/posts/skhh/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/skhh/</guid>
+      <guid>http://localhost:1313/UnpossibleCathexis/posts/skhh/</guid>
       <description>July Writing Challenge, Literary Society</description>
       
     </item>
     
     <item>
       <title>Curse of Youth - Manthan</title>
-      <link>http://localhost:1313/posts/coy/</link>
+      <link>http://localhost:1313/UnpossibleCathexis/posts/coy/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/coy/</guid>
+      <guid>http://localhost:1313/UnpossibleCathexis/posts/coy/</guid>
       <description>Manthan 2024 - Entry</description>
       
     </item>
