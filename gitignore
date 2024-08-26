@@ -6,4 +6,4 @@ node_modules
 ._*
 
 # Hugo
-public
+public/
