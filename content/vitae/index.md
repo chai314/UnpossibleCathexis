@@ -57,7 +57,7 @@ showAuthor: false
     <div class="table-cell"><img class="square" src="sfdc.png" /></div>
     <div class="table-cell">Salesforce Inc.</div>
     <div class="table-cell">Summer<br>Intern</div>
-    <div class="table-cell">2025</div>
+    <div class="table-cell">upcoming!</div>
   </div>
   <div class="table-row">
     <div class="table-cell"><img class="square" src="tifr.png" /></div>
