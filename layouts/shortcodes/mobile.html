@@ -1,0 +1,21 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+
+        function isMobileDevice() {
+            return /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+            // return true;
+        }
+
+        // Check if the device is mobile
+        if (isMobileDevice()) {
+            // Add extra text for mobile users
+            const mobileText = "A little robot told me you're on mobile!\n\
+                                Try the hamburger icon in the top right corner";
+            const mobileElement = document.getElementById('mobile-only');
+            mobileElement.innerText = mobileText;
+            mobileElement.style.opacity = "0.5"; // Set the opacity to 0.5 (50%)
+        }
+    });
+</script>
+<br>
+<p id="mobile-only"></p>
