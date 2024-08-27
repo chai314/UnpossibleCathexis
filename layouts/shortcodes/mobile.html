@@ -2,20 +2,31 @@
     document.addEventListener('DOMContentLoaded', function() {
 
         function isMobileDevice() {
-            return /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
             // return true;
+            return /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
         }
 
-        // Check if the device is mobile
         if (isMobileDevice()) {
-            // Add extra text for mobile users
-            const mobileText = "A little robot told me you're on mobile!\n\
-                                Try the hamburger icon in the top right corner";
+            const mobileText = "A little robot told me you're on mobile!\n";
             const mobileElement = document.getElementById('mobile-only');
             mobileElement.innerText = mobileText;
-            mobileElement.style.opacity = "0.5"; // Set the opacity to 0.5 (50%)
+            mobileElement.style.opacity = "0.5";
+            document.getElementById('mobile-menu').style.display = 'block';
         }
     });
 </script>
 <br>
 <p id="mobile-only"></p>
+
+<div class="menu" id="mobile-menu" style="display: none;">
+    <h3>
+      |[&emsp;
+      <a href=''>Home</a>
+      &emsp;][&emsp;
+      <a href='posts'>Posts</a>
+      &emsp;][&emsp;
+      <a href='vitae'>Vitae</a>
+      &emsp;]|
+    </h3>
+  </div>
+  

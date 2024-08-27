@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Résumé"
 date: 2024-08-27
 draft: false
 
@@ -105,7 +105,7 @@ showAuthor: false
     <div class="table-cell"><img class="square2" src="252.jpg" /></div>
     <div class="table-cell">MA252</div>
     <div class="table-cell">Algorithm Design<br>and Anal.</div>
-    <div class="table-cell">Meh.</div>
+    <div class="table-cell">Abdul Bari, everyone.</div>
   </div>
   <div class="table-row">
     <div class="table-cell"><img class="square2" src="224.png" /></div>

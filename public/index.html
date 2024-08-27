@@ -69,14 +69,14 @@
   <meta property="og:url" content="http://localhost:1313/UnpossibleCathexis/">
   <meta property="og:site_name" content="/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs">
   <meta property="og:title" content="/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs">
-  <meta property="og:description" content=" ">
+  <meta property="og:description" content=" |[ Home ][ Posts ][ Vitae ]|">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs">
-  <meta name="twitter:description" content=" ">
+  <meta name="twitter:description" content=" |[ Home ][ Posts ][ Vitae ]|">
 
   
   <script type="application/ld+json">
@@ -493,23 +493,34 @@
     document.addEventListener('DOMContentLoaded', function() {
 
         function isMobileDevice() {
-            return /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
             
+            return /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
         }
 
-        
         if (isMobileDevice()) {
-            
-            const mobileText = "A little robot told me you're on mobile!\n\
-                                Try the hamburger icon in the top right corner";
+            const mobileText = "A little robot told me you're on mobile!\n";
             const mobileElement = document.getElementById('mobile-only');
             mobileElement.innerText = mobileText;
-            mobileElement.style.opacity = "0.5"; 
+            mobileElement.style.opacity = "0.5";
+            document.getElementById('mobile-menu').style.display = 'block';
         }
     });
 </script>
 <br>
 <p id="mobile-only"></p>
+
+<div class="menu" id="mobile-menu" style="display: none;">
+    <h3>
+      |[&emsp;
+      <a href=''>Home</a>
+      &emsp;][&emsp;
+      <a href='posts'>Posts</a>
+      &emsp;][&emsp;
+      <a href='vitae'>Vitae</a>
+      &emsp;]|
+    </h3>
+  </div>
+  
 </section>
                 </div>
             </div>
@@ -526,7 +537,13 @@
 
   
 
-      
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Scroll to top" title="Scroll to top">
+    &uarr;
+  </a>
+</div>
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
@@ -559,7 +576,7 @@
     
     
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
-      Chaitanya Chhabra © 2024
+      © 2024
     </p>
     
 
