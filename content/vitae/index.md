@@ -40,6 +40,7 @@ showAuthor: false
   display: table-cell;
   vertical-align: middle;
   padding: 5px;
+  text-align: center;
 }
 </style>
 
@@ -88,7 +89,7 @@ showAuthor: false
     <div class="table-cell">So pissed at morning labs.</div>
   </div>
   <div class="table-row">
-    <div class="table-cell"><img class="square" src="anjankc.png" /></div>
+    <div class="table-cell"><img class="square2" src="anjankc.png" /></div>
     <div class="table-cell">MA641</div>
     <div class="table-cell">Operator Theory<br>on Hilbert Spaces</div>
     <div class="table-cell">He's actually the best.</div>
@@ -169,7 +170,7 @@ showAuthor: false
 </div>
 
   <div class="table-row">
-    <div class="table-cell"><img src ="iitg.png" class="square2"/></div>
+    <div class="table-cell"><img src ="iitg.png" class="square"/></div>
     <div class="table-cell">IIT Guwahati</div>
     <div class="table-cell">Mathematics and Computing, B.Tech</div>
     <div class="table-cell">2026</div>

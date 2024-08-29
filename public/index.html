@@ -69,14 +69,14 @@
   <meta property="og:url" content="http://localhost:1313/UnpossibleCathexis/">
   <meta property="og:site_name" content="/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs">
   <meta property="og:title" content="/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs">
-  <meta property="og:description" content=" |[ Home ][ Posts ][ Vitae ]|">
+  <meta property="og:description" content=" |[  Home  ][  Posts  ][  Vitae  ]|">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs">
-  <meta name="twitter:description" content=" |[ Home ][ Posts ][ Vitae ]|">
+  <meta name="twitter:description" content=" |[  Home  ][  Posts  ][  Vitae  ]|">
 
   
   <script type="application/ld+json">
@@ -480,12 +480,18 @@
     ];
 
 
-    const displaystring = encodedStrings[Math.floor(Math.random() * encodedStrings.length)];
+    function displayRandomQuote() {
+        const randomIndex = Math.floor(Math.random() * encodedStrings.length);
+        const randomQuote = encodedStrings[randomIndex];
+        document.getElementById('random-string').innerText = randomQuote;
+    }
+
     document.addEventListener("DOMContentLoaded", function() {
-        document.getElementById('random-string').innerText = displaystring;
+        displayRandomQuote();
+        document.getElementById('random-string').addEventListener('click', function() {displayRandomQuote();});
     });
 </script>
-<p id="random-string"></p>
+<p id="random-string" style="cursor: pointer; user-select:none;"></p>
 
 </div>
 
@@ -493,7 +499,7 @@
     document.addEventListener('DOMContentLoaded', function() {
 
         function isMobileDevice() {
-            
+            return true;
             return /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
         }
 
@@ -511,13 +517,13 @@
 
 <div class="menu" id="mobile-menu" style="display: none;">
     <h3>
-      |[&emsp;
+      |[&nbsp;&nbsp;
       <a href=''>Home</a>
-      &emsp;][&emsp;
+      &nbsp;&nbsp;][&nbsp;&nbsp;
       <a href='posts'>Posts</a>
-      &emsp;][&emsp;
+      &nbsp;&nbsp;][&nbsp;&nbsp;
       <a href='vitae'>Vitae</a>
-      &emsp;]|
+      &nbsp;&nbsp;]|
     </h3>
   </div>
   

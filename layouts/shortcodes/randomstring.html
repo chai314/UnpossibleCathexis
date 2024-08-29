@@ -39,10 +39,16 @@
     ];
 
 
-    const displaystring = encodedStrings[Math.floor(Math.random() * encodedStrings.length)];
+    function displayRandomQuote() {
+        const randomIndex = Math.floor(Math.random() * encodedStrings.length);
+        const randomQuote = encodedStrings[randomIndex];
+        document.getElementById('random-string').innerText = randomQuote;
+    }
+
     document.addEventListener("DOMContentLoaded", function() {
-        document.getElementById('random-string').innerText = displaystring;
+        displayRandomQuote();
+        document.getElementById('random-string').addEventListener('click', function() {displayRandomQuote();});
     });
 </script>
 
-<p id="random-string"></p>
+<p id="random-string" style="cursor: pointer; user-select:none;"></p>
