@@ -28,7 +28,9 @@ She was the Day God made the oceans so the September breeze could bear her locks
 
 Those glyphs on her shirt? Apparently, she’d believed with all her heart there were others like us among the stars… Aliens. Liked to deadpan that they were all sorta silly and took emotions very seriously and would brutally slaughter over a simple lie or hurt feeling. Cute as a button. I loved all her silly thoughts… I’d reversed for her after all. She saw me, thoroughly, as did I her. But she made me valid. My love peaked.
 
-And hers subdued. She’d go on rationalizing and emotionalizing and tell me how much she cared but that there was just not much left now where once stood fecund pastures of deciduous leaves. Every seventh grader knows the second law of thermodynamics, and that’s just how it is sometimes – I understood that. I wished excruciatingly she could’ve too. 
+And hers subdued. 
+
+She’d go on rationalizing and emotionalizing and tell me how much she cared but that there was just not much left now where once stood fecund pastures of deciduous leaves. Every seventh grader knows the second law of thermodynamics, and that’s just how it is sometimes – I understood that. I wished excruciatingly she could’ve too. 
 
 There were, however, deciduous teeth. I wouldn’t ever know why exactly we bickered, so often we’d meta-quarrel over my alleged lack of verve in trying to beat the wind. She would supply me with reasons I’d never get, and rip out hair elaborating, and elucidating, and ultimately give up saying she’d rather have read Shakespeare to a pigeon. 
 
