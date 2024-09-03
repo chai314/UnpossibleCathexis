@@ -1,4 +1,7 @@
+<script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
 <script>
+    const encodedStrings1 = ["What subculture is evinced by Ike's clothes and his shtick,\n\
+        by the non-Semitic contours of his nose and his dick?"];
     const encodedStrings = [
         "A continuation of the dream you saw yesterday",
         "What subculture is evinced by Ike's clothes and his shtick,\n\
@@ -19,7 +22,7 @@
         "Catachresis of catachresis",
         "Kochar: \"Abey, propensity ka matlab kya hota hai?\" \n \"Proclivity.\"",
         "To sashay, or chassé today",
-        "He meows back at cats",
+        "Meowing back at cats",
         "¿Por qué no los dos?",
         "Who the FUCK is jayant mittal?",
         "Drop-dead typical",
@@ -41,24 +44,38 @@
         "Ate the poison, licked the plate",
         "A cricket asleep amidst silver dollars in the humidor",
         "Thnks fr th mmrs, evn thgh thy wrnt so grt",
-        "Wake me up when _____ ends",
         "I second that. I third it.\nThe council of Me concurs",
         "The perfect analogy is perfectly useless",
         "ABC is a theorem in Kyoto and a conjecture everywhere else",
         "As I said, I don't repeat myself",
+        '"yields falsehood when preceeded by its quote"\nyields falsehood when preceeded by its quote',
     ];
 
 
-    function displayRandomQuote() {
-        const randomIndex = Math.floor(Math.random() * encodedStrings.length);
-        const randomQuote = encodedStrings[randomIndex];
-        document.getElementById('random-string').innerText = randomQuote;
-    }
+    // function displayRandomQuote() {
+    //     const randomIndex = Math.floor(Math.random() * encodedStrings.length);
+    //     const randomQuote = encodedStrings[randomIndex];
+    //     document.getElementById('random-string').innerText = randomQuote;
+    // }
 
-    document.addEventListener("DOMContentLoaded", function() {
-        displayRandomQuote();
-        document.getElementById('random-string').addEventListener('click', function() {displayRandomQuote();});
-    });
+    // document.addEventListener("DOMContentLoaded", function() {
+    //     displayRandomQuote();
+    //     document.getElementById('random-string').addEventListener('click', function() {displayRandomQuote();});
+    // });
 </script>
 
-<p id="random-string" style="cursor: pointer; user-select:none;"></p>
+<!-- <p id="random-string" style="cursor: pointer; user-select:none;"></p> -->
+<p id="random-string" style="user-select:none;"></p>
+
+<script>
+    strlist = encodedStrings.map(str => str.replace(/\n/g, "<br>"))
+                            .sort(() => Math.random()-0.5);
+    new TypeIt("#random-string", {
+      strings: strlist,
+      breakLines: false,
+      loop: true,
+      lifelike: true,
+      speed: 60,
+      nextStringDelay: [4000,1000]
+    }).go();
+</script>

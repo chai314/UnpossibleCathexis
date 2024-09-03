@@ -69,14 +69,14 @@
   <meta property="og:url" content="http://localhost:1313/UnpossibleCathexis/">
   <meta property="og:site_name" content="/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs">
   <meta property="og:title" content="/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs">
-  <meta property="og:description" content=" |[  Home  ][  Posts  ][  Vitae  ]|">
+  <meta property="og:description" content="W W W W W W W W W W W W W W W W W W W W W W W W W W W W I">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs">
-  <meta name="twitter:description" content=" |[  Home  ][  Posts  ][  Vitae  ]|">
+  <meta name="twitter:description" content="W W W W W W W W W W W W W W W W W W W W W W W W W W W W I">
 
   
   <script type="application/ld+json">
@@ -439,7 +439,10 @@
                     </div>
                     <section class="prose dark:prose-invert"><hr>
 <div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-  <script>
+  <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+<script>
+    const encodedStrings1 = ["What subculture is evinced by Ike's clothes and his shtick,\n\
+        by the non-Semitic contours of his nose and his dick?"];
     const encodedStrings = [
         "A continuation of the dream you saw yesterday",
         "What subculture is evinced by Ike's clothes and his shtick,\n\
@@ -460,7 +463,7 @@
         "Catachresis of catachresis",
         "Kochar: \"Abey, propensity ka matlab kya hota hai?\" \n \"Proclivity.\"",
         "To sashay, or chassé today",
-        "He meows back at cats",
+        "Meowing back at cats",
         "¿Por qué no los dos?",
         "Who the FUCK is jayant mittal?",
         "Drop-dead typical",
@@ -482,29 +485,42 @@
         "Ate the poison, licked the plate",
         "A cricket asleep amidst silver dollars in the humidor",
         "Thnks fr th mmrs, evn thgh thy wrnt so grt",
-        "Wake me up when _____ ends",
         "I second that. I third it.\nThe council of Me concurs",
         "The perfect analogy is perfectly useless",
         "ABC is a theorem in Kyoto and a conjecture everywhere else",
         "As I said, I don't repeat myself",
+        '"yields falsehood when preceeded by its quote"\nyields falsehood when preceeded by its quote',
     ];
 
 
-    function displayRandomQuote() {
-        const randomIndex = Math.floor(Math.random() * encodedStrings.length);
-        const randomQuote = encodedStrings[randomIndex];
-        document.getElementById('random-string').innerText = randomQuote;
-    }
+    
+    
+    
+    
+    
 
-    document.addEventListener("DOMContentLoaded", function() {
-        displayRandomQuote();
-        document.getElementById('random-string').addEventListener('click', function() {displayRandomQuote();});
-    });
+    
+    
+    
+    
 </script>
-<p id="random-string" style="cursor: pointer; user-select:none;"></p>
+<p id="random-string" style="user-select:none;"></p>
+<script>
+    strlist = encodedStrings.map(str => str.replace(/\n/g, "<br>"))
+                            .sort(() => Math.random()-0.5);
+    new TypeIt("#random-string", {
+      strings: strlist,
+      breakLines: false,
+      loop: true,
+      lifelike: true,
+      speed: 60,
+      nextStringDelay: [4000,1000]
+    }).go();
+</script>
 
 </div>
 
+<p style="user-select: none; opacity:0;">W W W W W W W W W W W W W W W W W W W W W W W W W W W W I</p>
 <script>
     document.addEventListener('DOMContentLoaded', function() {
 
@@ -520,20 +536,21 @@
             mobileElement.style.opacity = "0.5";
             document.getElementById('mobile-menu').style.display = 'block';
         }
+
     });
 </script>
-<br>
+
 <p id="mobile-only"></p>
 
 <div class="menu" id="mobile-menu" style="display: none;">
     <h3>
-      |[&nbsp;&nbsp;
-      <a href=''>Home</a>
-      &nbsp;&nbsp;][&nbsp;&nbsp;
-      <a href='posts'>Posts</a>
-      &nbsp;&nbsp;][&nbsp;&nbsp;
-      <a href='vitae'>Vitae</a>
-      &nbsp;&nbsp;]|
+        |[&nbsp;
+        <a href="" role="button">Home</a>
+        &nbsp;][&nbsp;
+        <a href="posts" role="button">Posts</a>
+        &nbsp;][&nbsp;
+        <a href="vitae" role="button">Vitae</a>
+        &nbsp;]|
     </h3>
   </div>
   
