@@ -6,4 +6,7 @@ node_modules
 ._*
 
 # Hugo
+public
+public/
 public/*
+# little piece of shit
