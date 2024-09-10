@@ -58,10 +58,14 @@ I know you get it, as you always do, but let me ask you exactly what you get, as
   No gym. Insurance mouse at limit. Find real shrink.  
 </p>
     
-Insurance mouse has a name, you big, ripped oaf.  
-<p align='right'>  
-  Gonna go now. See you Jerry.
-</p>
+Insurance mouse has a name, you big, ripped oaf.
+
+{{% rtl %}}
+  .Gonna go now. See you Jerry[^2]
+{{%/ rtl %}}
+
+
+
 
 {{< lead >}}
 <center><i>
@@ -85,7 +89,7 @@ T, I hate saying this, and I really regret being vague, but I was asking what yo
 
 That was on you, yeah. I've got that fancy catnip you were meaning to try. Mozambique. You're preoccupied today; got something on your mind?
 
-Only thoughts of three Gin Catatonics[^2], cold as industry steel, monarchy in the Middle Ages, and a sperm whale's habitat, respectively. And loosen that nip real well good.
+Only thoughts of three Gin Catatonics[^3], cold as industry steel, monarchy in the Middle Ages, and a sperm whale's habitat, respectively. And loosen that nip real well good.
 
 Ya know whatcha problem is? Kick this ass, bury those bones. Violence, via lens. Violins! Rember… Remember Gandhi. Yeeeees. Think ahf him. Work that heada yers. Think tomcat, fer once in yer miseribble lahf. This is wah Mamma Two Shoes kicked ya out like an alley cat. Hobo.
 
@@ -93,11 +97,11 @@ So you're cut off. Be a doll and pass me his mug? Thank you.
 
 Okay, I feel bad now, I honestly do. Tell me Toodles, what happens at 9?
 
-Happy Hour. A real happy bunch of regulars shows up. It’s a sight to see. They come in motorbikes a-skiddin', burnt rubber kissing linoleum; hoist three sheets to the wind; order like apes in a banquet buffet, break half their plates, steal our silverware... it's a whole circle of Hell.
+Happy Hour. A real happy bunch of regulars shows up. It’s a sight to see. They come in motorbikes a-skiddin', burnt rubber kissing linoleum, hoist three sheets to the wind, order like apes in a banquet buffet, break half their plates, steal our silverware... it's a whole circle of Hell.
 
 And you let them.
 
-The capo is loaded. Wires us plenty of compensation for entertaining his halfwits. As for the other customers, well, they promptly abscond at the sortie, lickety-split. Lo, speak of the devils. You see them?
+The capo is loaded. Wires us plenty of compensation for entertaining his halfwits. As for the other customers, well, they find it in their best interests to abscond at the sortie, lickety-split. Lo, speak of the devils. You see them?
 
 They’re hard to miss Toods. You’ve got a hoodlum problem. Need to put up a *No Mohawks* sign ‘round here. And the gin… think I’ll take the whole bottle.
 
@@ -119,7 +123,7 @@ Traintop, Moribund
 {{< /lead >}}
 
 
-Unlimited braggadocio! Okay. I hear you, but I was saying –
+Unlimited braggadocio! Young one, I hear you, but hear me out –
 
 You hear this pound? This death metal drum solo with the beats per minute of a black hummingbird’s flap. These frequencies to humanity, the chit-chat of quasars. This stampede of endorphins inundating every throbbing organ in my being. My muscles are a superheterodyne churning actin and myosin into liquid power and smoke-blue pain. I’m a reactor running on perpetual meltdown, the hull of my flesh a greenhouse dome ensnaring every ounce of obliteration I could unleash if I so willed so easily on this fragile Earth. My beloved planet. My cross to bear.
 
@@ -129,27 +133,27 @@ I’m adamantine. My piss is the Styx. All passengers aboard, may I have your at
 
 That’s not very decent, buddy. Clearly you’re not thinking straight. Just listen to me. 
 
-Thank you, Spike\! Tom thought long and hard for once in his life. Gazed into the chasm and... you know what Tom saw? *Mise en abyme.* What Tom needs to do is stop giving a hang... Et tu, Toodles? Forced me to choose between you and my moral drive. You vivisected the fiber of my being, and proceeded to throw me out... just like that hag Two Shoes. 
+Thank you, Spike\! Tom thought long and hard for once in his life. Gazed into the chasm and... you know what Tom saw? *Mise en abyme.* What Tom needs to do is stop giving a hang... Et tu, Toodles? Forced me to choose between you and my moral drive. You vivisect the fiber of my being, and proceed to throw me out... just like that hag Two Shoes. 
 
 Buddy, Tom? I’m Tom too – I’m Thomas the Tank Engine. Tom, I need you to shut up and listen clearly. I’m gonna slow down at that bend, you’re gonna hop off, and we’re gonna agree to agree that it’s just not your day.
 
-…Thomas. You’re me…
+…Thomas. You’re me?
 
-Zip it, I said. God. You’ve broken the locomotive law tonight more times than I can count on my cars. But no cops need to know about this scene you made atop my engine, if you just go now. 
+Zip it, I said. God. You’ve broken the locomotive law tonight more times than I can count on my cars. But no cops need to know about this scene you made atop my engine, if you just go now. Capisce?
 
 Thomas, my friend. I am the exegesis of a schizo’s magnum opus. My middle name is Bazooka. I’m a pyramid of deliriants served upon a magnifying glass. A kitty of prey, the apex, the lionized one. Thomas, I concede. From this moment on I’ll never judge, never jury, never execute. My impalpable limits will remain the only unknown, the true Beyond.
 
-Okay. Almost there. Be ready to take off, bud.
+O-kaaay. Almost there. Be ready to take off, bud.
 
 We are Brownian wisps of spidersilk in the washing machine of life. Can I confide in you, my friend? I’m honestly more sensitive than I appear. Sometimes the maelstrom evades my defenses. Sometimes the onslaught is unbearable.
 
-Oh, join the club. Find a good shrink. We part ways here. Sayonara, tomcat.
+Oh, join the club. Find a good shrink. We part ways here; sayonara, tomcat.
 
 Thomas, I’m not going.
 
 You’re shitting me right now. Don’t mistake my munificence for naivety, alley cat. I could sue you till you’re silicates on the ground and throw in a holiday package behind bars for good measure.
 
-No, my friend. I’m done. Will you heed my wish, Thomas, my only friend? I have truly felt tonight for once the company of an Other, on this journey with you. I want you to be my final friend, the very ultimate. I will doze off any moment now. I ask this of you, the very soul of munificence, my final friend, to be so kind as to dispose of my body when to-morrow comes. I want to go down in the midst of stinging veisalgia, as far away from this town as I can. Can you do that for me, Thomas?
+No, my friend. I’m done. I was birthed from the nitrogen cycle, and these muscles are weepin' buckets to see their mama. Will you heed my wish, Thomas, my only friend? I have truly felt tonight for once, on this journey with you, the company of an Other. I want you to be my final friend, the very ultimate. I will doze off any moment now, Thomas. I ask this of you, the very soul of munificence, my final friend, to be so kind as to dispose of my body when to-morrow comes. I want to go down in the midst of stinging veisalgia, as far away from this town as I can. Can you do that for me, Thomas?
 
 Damn it. God damn it. Why me\!
 
@@ -175,14 +179,19 @@ Uh, Stockholm… heart churn…
 
 Yes\! Live, Tom, for me. You’re not going anywhere on my watch. I’ll be your friend, but give me none of that “final” friend business. We’ll find you a new owner, or you could live… with me? Oh gosh… um, but only if you’re okay with that, of course. Let’s start over in this new town, Tom. Forget Toodles, forget Mamma. It’s time for Thomas and Tom. Tom and Thomas. Tommy and Tommy and a trillion adventures. Seize my metaphorical hand, Tom. Carpe diem\!
 
-*Pounding his frayed expression into compliance, Tom removes the paw relieving his throbbing headache and steels himself, poising into an almighty, earth-shattering squat. The sheer impact of striking the pose sends seismic shudders quaking each lorry in the misfortunate locomotive. He heaves and he leaps, and a hundred wheels burst and give out at once. Carbon-steel donuts breathe their last in ear-bleeding screeches, sparkling in pyrotechnics, the gelid light of the End. Tom picks up torque high in the troposphere, now rotating at cyclonic speeds and yet carrying himself with the grace of a (hungover) ballet dancer or a (hungover) competitive diver. The drop in atmospheric pressure draws humongous clouds cumulonimbus from a radius of ten kilometers into an astronomical coalescing mass. With what life is left in him, the very last ounces of strength in those mechanical eyes, Thomas drinks up the resplendence of the roaring muscles and their explosive vigor, the foretold brio and handsome panache of the Torino-10 impact headed his way, and his heart flutters throughout it all.*
+*Pounding his astounded countenance into compliance, Tom removes the paw relieving his throbbing headache and steels himself, poising into an almighty, earth-shattering squat. The sheer impact of striking the pose sends seismic shudders quaking each lorry in the misfortunate locomotive. He heaves and he leaps, and a hundred wheels burst and give out at once. Carbon-steel donuts breathe their last in ear-bleeding screeches, sparkling in lurid pyrotechnics, the gelid light of the End. Tom picks up torque high in the troposphere, now rotating at cyclonic speeds and yet carrying himself with the grace of a (hungover) ballet dancer or a (hungover) competitive diver. The drop in atmospheric pressure draws humongous clouds cumulonimbus from a radius of ten kilometers into an astronomical coalescing mass. With what life is left in him, the very last ounces of strength in those mechanical eyes, Thomas drinks up the resplendence of the roaring muscles and their explosive vigor, the foretold brio and handsome panache of the Torino-10 impact headed his way, and his heart flutters throughout it all.*
+
+<br>
 
 *How much time then passes is anyone’s guess.*
 
 <br>
+<br>
+<br>
 
 Who was that… Where the hell am I\!
 
+<br>
 <br>
 
 *It rains.*
@@ -194,6 +203,8 @@ Who was that… Where the hell am I\!
 
 [^1]: The act of eating one’s husband  
 
-[^2]: Catatomic would have been a quadruple[^3] entendre: Cat, Tom, Atomic and Catatonic  
+[^2]: Gym rat.
 
-[^3]: Tonic too, but I count it one-half. A sesquitriple entendre.
+[^3]: *Catatomic* would have made for a quintuple[^4] entendre: Cat, Tom, Atomic, Tonic and Catatonic  
+
+[^4]: Personally, I'd dock half a point altogether for the *m*/*n* mixup in two of those. A sesquitriple entendre.

@@ -17,6 +17,7 @@ showAuthor: false
 
 ---
 
+
 <style>
 .square {
   width: 100px;
@@ -67,6 +68,148 @@ showAuthor: false
     <div class="table-cell">2024</div>
   </div>
 </div>
+
+## Stuff
+
+{{< timeline >}}
+
+{{< timelineItem icon="github" header="GitHub" >}}
+{{<github1 repo="chai314/UnpossibleCathexis">}}
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="Tech" >}}
+{{< gallery >}}
+  <img src="python.svg" class="grid-w20" />
+  <img src="c.svg" class="grid-w20" />
+  <img src="latex.png" class="grid-w33" />
+  <img src="cpp.svg" class="grid-w20" />
+  <img src="sage.png" class="grid-w20" />
+  <img src="mysql.svg" class="grid-w20" />
+  <img src="tensorflow.svg" class="grid-w20" />
+  <img src="git.svg" class="grid-w20" />
+  <img src="haskell.svg" class="grid-w20" />
+{{< /gallery >}}
+{{< /timelineItem >}}
+
+{{< timelineItem header="I click colors in my free time">}}
+
+<style>
+    .row-container {
+        display: flex;
+        gap: 10px;
+        margin: 20px;
+        width: 100%;
+        cursor: pointer; /* Indicate clickability */
+    }
+
+    .swatch {
+        flex: 1;
+        height: 50px;
+        border-radius: 5px;
+        position: relative;
+        transition: background-color 0.5s ease, transform 0.2s ease;
+        transform-origin: bottom center;
+    }
+
+    /* Jelly bounce animation */
+    @keyframes jellyBounce {
+        0% {
+            transform: translateY(0) scale(1);
+        }
+        30% {
+            transform: translateY(30px) scale(1.05, 0.95); /* Compress on downward motion */
+        }
+        50% {
+            transform: translateY(0) scale(1); /* Return to normal */
+        }
+        70% {
+            transform: translateY(15px) scale(0.95, 1.05); /* Slight overshoot */
+        }
+        100% {
+            transform: translateY(0) scale(1); /* Back to rest */
+        }
+    }
+
+    .wave-animation-1 {
+        animation: jellyBounce 2s cubic-bezier(.5, .05, .1, .3) infinite;
+    }
+
+    .wave-animation-2 {
+        animation: jellyBounce 2s cubic-bezier(.5, .05, .1, .3) infinite;
+        animation-delay: 0.3s; /* Phase shift for second swatch */
+    }
+
+    .wave-animation-3 {
+        animation: jellyBounce 2s cubic-bezier(.5, .05, .1, .3) infinite;
+        animation-delay: 0.6s; /* Phase shift for third swatch */
+    }
+</style>
+
+<div id="row1" class="row-container"></div>
+
+<script>
+    const row = document.getElementById('row1');
+    let currentTheme = 0;
+
+    // Base colors for the themes
+    const baseColors = {
+        blue: [200, 50, 60],  // Blue tone
+        red: [0, 50, 70],     // Red tone
+        amethyst: [270, 60, 70], // Purple/Amethyst tone
+        bright: [50, 100, 70], // Bright yellows, oranges, etc.
+        light: [150, 100, 70]   // Light pastel-like colors
+    };
+
+    // Array of theme names
+    const themes = ['blue', 'red', 'amethyst', 'bright', 'light'];
+
+    // Function to generate a random color variation within a theme's base color
+    function getRandomColor(baseHue, baseSaturation, baseLightness) {
+        // Add random variance within a range to keep colors within theme
+        const hue = baseHue + (Math.random() * 30 - 10); // Randomize hue slightly
+        const saturation = baseSaturation + (Math.random() * 20 - 10); // Slight saturation variance
+        const lightness = baseLightness + (Math.random() * 40 - 20); // Lightness variation
+
+        return `hsl(${hue}, ${saturation}%, ${lightness}%)`; // Return the color in HSL format
+    }
+
+    // Function to generate swatches with a random color based on current theme
+    function generateSwatch(index) {
+        const theme = themes[currentTheme];
+        const [baseHue, baseSaturation, baseLightness] = baseColors[theme];
+        const randomColor = getRandomColor(baseHue, baseSaturation, baseLightness);
+        const swatch = document.createElement('div');
+        swatch.className = 'swatch';
+        swatch.style.backgroundColor = randomColor;
+        swatch.classList.add(`wave-animation-${index + 1}`);
+        return swatch;
+    }
+
+    // Function to change theme and randomize swatch colors
+    function changeTheme() {
+        currentTheme = (currentTheme + 1) % themes.length; // Cycle through themes
+        const swatches = document.querySelectorAll('.swatch');
+        swatches.forEach((swatch, index) => {
+            const theme = themes[currentTheme];
+            const [baseHue, baseSaturation, baseLightness] = baseColors[theme];
+            swatch.style.backgroundColor = getRandomColor(baseHue, baseSaturation, baseLightness);
+        });
+    }
+
+    // Add event listener for click to change theme and randomize colors
+    row.addEventListener('click', changeTheme);
+
+    // Append three swatches to the row
+    for (let i = 0; i < 3; i++) {
+        row.appendChild(generateSwatch(i));
+    }
+</script>
+
+
+
+{{< /timelineItem >}}
+
+{{< /timeline >}}
 
 
 ## Courses I Took
