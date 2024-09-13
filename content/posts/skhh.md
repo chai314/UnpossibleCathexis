@@ -36,7 +36,7 @@ Wonderful. So spit it out already. You got a thing for single gymnasium insuranc
 <p align='right'>  
   No.    
 </p>
-Tommy now you see, I do enjoy our little meetings, I really do. Cross my cheques and hope my bank rupts. But I do tire when you give me that paucity of verbosity of a monk under oath.  
+Tommy now you see, I do enjoy our little meetings, I really do. Cross my cheques and hope my bank rupts. But I tire when you give me that paucity of verbosity of a monk under oath.  
 <p align='right'>  
  ...  
 </p>
@@ -47,7 +47,7 @@ See, do you see? Stare straight into my eyes right now, Tom. I'm not here to bat
   I'll take them on. And I'm sorry.
 </p>
 
-I know, Thomas, I know you're filled with remorse and you don't mean to pulverize our property but you just can't help that you're a rippling, striated, shimmering, serrated monster fourteen and a half standard deviations ahead of the curve with that body, that coruscating musculature of a classical Hero, and you just can't help it when repressed memories effervesce their helium fumes from under sheets and sheets of your subconscious scaffolding, and the pop of the bubbles is Greek fire, napalm to your mind, ice so cold it burns, radioactive stellar bursts in an infant's sickly yawn, the weeping venom of the widow in black now consigning to her fate in maritiphagy[^1], her rank tragedy the utmost kinography to Mother Nature dearest, wickedest, with malice aforementioned. So I don't scold ya; I'm not a mother to you or anyone else for that matter. But man, you gotta get help. Pains me to do this, trust me, but it's the bad that happens for your own good. You're banned from all gyms in the country – don't doubt it, I've got a lot of friends. As for gyms outside the country... do you think The Hulk flew economy?  
+I know, Thomas, I know you're filled with remorse and you don't mean to pulverize our property but you just can't help but be the rippling, striated, shimmering, serrated monster fourteen and a half standard deviations ahead of the curve that you are with that body, that coruscating musculature of a classical Hero, and you just can't help it when repressed memories effervesce their miasmic fumes from under sheets and sheets of your subconscious scaffolding, and the pop of the bubbles is Greek fire, napalm to your mind, ice so cold it burns, radioactive stellar bursts in an infant's sickly yawn, the weeping venom of the widow in black now consigning to her fate in maritiphagy[^1], her rank tragedy the utmost kinography to Mother Nature dearest, wickedest, with malice aforementioned. So I don't scold ya; I'm not your mum or anyone else's for that matter. But man, you gotta get help. Pains me to do this, trust me, but it's the bad that happens for your own good. You're banned from all gyms in the country – don't doubt it, I've got a lot of friends. As for gyms outside the country... do you think The Hulk flew economy?  
 <p align='right'>  
   I get it.  
 </p>
@@ -87,9 +87,13 @@ T, I hate saying this, and I really regret being vague, but I was asking what yo
 
 *She balls her fist and puts it to her head, sticking her tongue out.*
 
-That was on you, yeah. I've got that fancy catnip you were meaning to try. Mozambique. You're preoccupied today; got something on your mind?
+That was on you, yeah. I've got that fancy catnip you were meaning to try. Mozambique.
 
-Only thoughts of three Gin Catatonics[^3], cold as industry steel, monarchy in the Middle Ages, and a sperm whale's habitat, respectively. And loosen that nip real well good.
+Mm. Nip.
+
+You're preoccupied today; got something on your mind?
+
+Only thoughts of three Gin Catatonics[^3], cold as industry steel, monarchy in the Middle Ages, and a sperm whale's habitat, respectively. And of you loosening that nip real well good.
 
 Ya know whatcha problem is? Kick this ass, bury those bones. Violence, via lens. Violins! Rember… Remember Gandhi. Yeeeees. Think ahf him. Work that heada yers. Think tomcat, fer once in yer miseribble lahf. This is wah Mamma Two Shoes kicked ya out like an alley cat. Hobo.
 
@@ -101,7 +105,7 @@ Happy Hour. A real happy bunch of regulars shows up. It’s a sight to see. They
 
 And you let them.
 
-The capo is loaded. Wires us plenty of compensation for entertaining his halfwits. As for the other customers, well, they find it in their best interests to abscond at the sortie, lickety-split. Lo, speak of the devils. You see them?
+The capo is loaded. Wires us plenty of compensation for entertaining his halfwits. As for the other customers, well, they find it in their best interests to abscond at the sortie lickety-split. Speak of the devils... you see them?
 
 They’re hard to miss Toods. You’ve got a hoodlum problem. Need to put up a *No Mohawks* sign ‘round here. And the gin… think I’ll take the whole bottle.
 
@@ -123,7 +127,7 @@ Traintop, Moribund
 {{< /lead >}}
 
 
-Unlimited braggadocio! Young one, I hear you, but hear me out –
+Unlimited braggadocio! Young one, I hear you, but–
 
 You hear this pound? This death metal drum solo with the beats per minute of a black hummingbird’s flap. These frequencies to humanity, the chit-chat of quasars. This stampede of endorphins inundating every throbbing organ in my being. My muscles are a superheterodyne churning actin and myosin into liquid power and smoke-blue pain. I’m a reactor running on perpetual meltdown, the hull of my flesh a greenhouse dome ensnaring every ounce of obliteration I could unleash if I so willed so easily on this fragile Earth. My beloved planet. My cross to bear.
 
@@ -133,7 +137,7 @@ I’m adamantine. My piss is the Styx. All passengers aboard, may I have your at
 
 That’s not very decent, buddy. Clearly you’re not thinking straight. Just listen to me. 
 
-Thank you, Spike\! Tom thought long and hard for once in his life. Gazed into the chasm and... you know what Tom saw? *Mise en abyme.* What Tom needs to do is stop giving a hang... Et tu, Toodles? Forced me to choose between you and my moral drive. You vivisect the fiber of my being, and proceed to throw me out... just like that hag Two Shoes. 
+Thank you, Spike\! Tom thought long and hard for once in his life. Gazed into the chasm and... you know what Tom saw? *Mise en abyme.* What Tom needs to do is stop giving a hang... Et tu, Toodles? Forced me to choose between you and my moral drive. You vivisect the fiber of my being, and proceed to throw me out... no different from that hag Two Shoes. 
 
 Buddy, Tom? I’m Tom too – I’m Thomas the Tank Engine. Tom, I need you to shut up and listen clearly. I’m gonna slow down at that bend, you’re gonna hop off, and we’re gonna agree to agree that it’s just not your day.
 
