@@ -2,7 +2,7 @@
 title: "Curse of Youth - Manthan"
 date: 2024-03-13
 draft: false
-summary: "Manthan 2024 - Entry"
+summary: "Sophomore Entry for Manthan (Inter Hostel)"
 tags: ["outer space","beach","shakespeare"]
 categories: ["uwu what's this"]
 showHeadingAnchors: true
@@ -17,7 +17,7 @@ A gentle summer day in May when the heat-stricken hum and buzz of cicadas seemed
 
 I came to to the sight of an unknown ceiling. She sat by the bedpost, caressing crinkles in the sheets in sweet insouciance. I was told she pulled me out of the ruins of my Cadillac (okay, the Cad was dad’s, on the verge of breakdown for a preternatural decade and yet hellaciously chic for the zeitgeist. Repairs weren’t bad. Well, they were, but I digress) in a show of sheer power I could have only hoped to fathom correctly, because those slender arms and tender hands didn’t give the impression of as much as a delusion of the illusion of an iota of strength. Smidgeons for wrists perfumed with treacle; amaretto. I could have wrapped around each with a thumb and a pinkie, I swear. 
 
-And *quelle coïncidence*, she was nineteen too. Let’s cut the gory details – there were sparks. We got together. *Sip.* We were tabasco of infinite zest, arson to vineyards doused in dandelions and roars of fiery dread, fuelled by a wick woven of scarlet Fate that seemed to rend latitudes and longitudes into fantastic shreds. Ah, it was dynamite, in the kilotons.
+And *quelle coïncidence*, she was nineteen too. Let’s cut the gory details – there were sparks. We got together. *Sip.* We were tabasco of infinite zest, arson to vineyards doused in dandelions and roars of fiery dread, fuelled by a wick woven of scarlet Fate that seemed to rend latitudes and longitudes into fantastic shreds. Ah, we were dynamite, in the kilotons.
 
 I’m not sure, but, do you have this concept of a “reversal”, over there? And oh, no offense.   
 I see. It’s rather simple – we’re attracted to impressive appearances: qualities in resonance with our biases, that float our figurative boats, are attuned to our proclivities, make us feel valid and three-dimensional and so on. It’s evolutionary; Darwinian – or your equivalent version. You get the idea. And then comes the aforementioned *reversal*. It’s a spectacular shift in paradigm, a real festival for the feelings when it finally occurs. No longer do you like solely the likable matter, for you've learned to like all that one has to offer: the quirks and the idiosyncrasies, all the issues and the baggage.

@@ -1,7 +1,8 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs"
+title = "Unpossible Cathexis"
+#title = "/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs"
 
 [params]
   displayName = "EN"

@@ -10,6 +10,8 @@ colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
+IPATitle = "/ʌnˈpɒsɪbəl/ kəˈθɛk sɪs"
+
 enableSearch = true
 enableCodeCopy = false
 

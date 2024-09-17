@@ -156,24 +156,20 @@ showAuthor: false
         blue: [200, 50, 60],  // Blue tone
         red: [0, 50, 70],     // Red tone
         amethyst: [270, 60, 70], // Purple/Amethyst tone
-        bright: [50, 100, 70], // Bright yellows, oranges, etc.
-        light: [150, 100, 70]   // Light pastel-like colors
+        bright: [50, 100, 70], // Bright yellows, oranges
+        light: [150, 100, 70]   // Light and pastel-like
     };
 
-    // Array of theme names
     const themes = ['blue', 'red', 'amethyst', 'bright', 'light'];
 
-    // Function to generate a random color variation within a theme's base color
     function getRandomColor(baseHue, baseSaturation, baseLightness) {
-        // Add random variance within a range to keep colors within theme
-        const hue = baseHue + (Math.random() * 30 - 10); // Randomize hue slightly
-        const saturation = baseSaturation + (Math.random() * 20 - 10); // Slight saturation variance
-        const lightness = baseLightness + (Math.random() * 40 - 20); // Lightness variation
+        const hue = baseHue + (Math.random() * 40 - 13); 
+        const saturation = baseSaturation + (Math.random() * 25 - 12);        const lightness = baseLightness + (Math.random() * 45 - 22);
 
-        return `hsl(${hue}, ${saturation}%, ${lightness}%)`; // Return the color in HSL format
+        return `hsl(${hue}, ${saturation}%, ${lightness}%)`;
     }
 
-    // Function to generate swatches with a random color based on current theme
+    // a random color based on current theme
     function generateSwatch(index) {
         const theme = themes[currentTheme];
         const [baseHue, baseSaturation, baseLightness] = baseColors[theme];
@@ -185,7 +181,7 @@ showAuthor: false
         return swatch;
     }
 
-    // Function to change theme and randomize swatch colors
+    //  randomize swatch colors
     function changeTheme() {
         currentTheme = (currentTheme + 1) % themes.length; // Cycle through themes
         const swatches = document.querySelectorAll('.swatch');
@@ -196,10 +192,7 @@ showAuthor: false
         });
     }
 
-    // Add event listener for click to change theme and randomize colors
     row.addEventListener('click', changeTheme);
-
-    // Append three swatches to the row
     for (let i = 0; i < 3; i++) {
         row.appendChild(generateSwatch(i));
     }

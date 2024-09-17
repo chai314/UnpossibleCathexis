@@ -1,4 +1,6 @@
 ---
+description: "Homepage, Chaitanya Chhabra | This is NOT a blog site."
+summary: "Homepage, Chaitanya Chhabra | This is NOT a blog site."
 ---
 
 ---

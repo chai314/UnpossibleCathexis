@@ -1,5 +1,5 @@
 ---
-title: "On the derivative of a linear operator: T'=T?"
+title: "On the derivative of a linear operator, and abuse of notation"
 date: 1924-09-14
 draft: false
 summary: "clearing up an abuse of notation"
@@ -13,15 +13,12 @@ showTableOfContents: true
 
 {{</rtl>}}
 
-I'll throw light on a result I wish I'd known during my last quiz. This, is vengeance.
+I'll throw light on a result I wish I'd known during my last quiz. **This, is vengeance.**
 
 
+To put a long story short, the best linear approximation to a linear operator is itself, everywhere.
 
-Consider a linear operator T, mapping the nice Hilbert space \\(\mathbb{R}^{n}\\) to itself. Yes, an endomorphism, smartypants. The ambient field, the mother to our scalars, being \\(\mathbb{R}\\).
-
-
-
-To brush up this means \\(T( a\overline{x} +b\overline{y}) =aT\ \overline{x} +bT\ \overline{y}\\) for scalars \\(a,b\\) and vectors \\(\overline{x} ,\overline{y}\\). 
+To put a long story long, consider a linear operator T, mapping the nice Hilbert space \\(\mathbb{R}^{n}\\) to itself. Yes, an endomorphism, smartypants. The ambient field, the mother to our scalars, being \\(\mathbb{R}\\). To brush up this means \\(T( a\vec{x} +b\vec{y}) =aT\ \vec{x} +bT\ \vec{y}\\) for scalars \\(a,b\\) and vectors \\(\vec{x} ,\vec{y}\\). 
 
 In other words, \\(T\\) distributes over adding and commutes with scaling.
 
@@ -122,7 +119,7 @@ And what is the derivative of \\(ax\\)? So \\(f'=f\\). Q.E.D.
 
 
 
-This is a source of immense confusion which stems from a notorious abuse of notation at its heart. Clearly it cannot be that T' equals T, for both the operators have wildly different (and well, disjoint) codomains. \\(T\\) spits out vectors. \\(T'\\) regurgitates operators. Hell, \\(T'\\) is curried.
+This is a source of confusion which stems from a notorious abuse of notation. Clearly it cannot be that T' equals T, for both the operators have wildly different (and well, disjoint) codomains. \\(T\\) spits out vectors. \\(T'\\) regurgitates operators. Hell, \\(T'\\) is curried.
 
 
 
@@ -190,14 +187,14 @@ A vector wearing a dapper hat is a unit vector, while zero wearing it is the zer
 
 
 
-Massage the \\(h/||h||\\) to get
+Absorb the \\(||h||\\) to get
 \\[
 \begin{align*}
 \lim _{h\rightarrow 0}( T'( x) -T) \ \hat{h} =\vec{0}
 \end{align*}
 \\]
 
-Since the dependency on \\(||h||\\) has been killed, \\(\hat{h}\\) remains; it is completely determined by the direction it represents. In particular, for the limit to hold, the operator must crush the entire unit sphere to zero.
+After the dependency on \\(||h||\\) has been killed, \\(\hat{h}\\) remains. It's completely determined by the direction it represents, which should evoke a mental image of the unit sphere. In fact, for the limit to hold, the operator must crush the entire unit sphere to zero.
 
 \\[
 \begin{align*}
@@ -248,7 +245,7 @@ And the second, the fruit of our labor, the derivative of the endomorphism.
 
 
 
-"But wait", you say, tugging at my shirt as I start to make my swift and grand exit. "You said that T=T' is true, just bad notation. What's up with that?"
+"But wait", you say, tugging at my shirt as I start to make a swift exit. "You said that T=T' is true, just bad notation. What's up with that?"
 
 
 
@@ -265,9 +262,17 @@ Indeed, it is best to say \\(T'( x) \equiv T\\) or \\(T'=x\mapsto T\\) or even \
 \\]
 
 
-The first is the identity map. We use 1 to denote it, abusing the isomorphism of the reals with the multiplier functions \\(\mathcal{M} =\\{mult_{a}( \ast ) :\ a\in \mathbb{R}\\}\\).
+The first is the identity map. We use 1 to denote it, abusing the isomorphism of the reals with the multiplier functions
+
+
+\\[
+\begin{align*}
+\mathcal{M} =\\{mult_{a}( \ast ) :\ a\in \mathbb{R}\\}.
+\end{align*}
+\\]
 
 The second is the constant map. We use \\(\mathbb{O}\mathbb{N}\mathbb{E}\\) to denote it, abusing the isomorphism of the reals with the constant functions
+
 
 \\[
 \begin{align*}
@@ -292,6 +297,6 @@ To see the different streams of thought in action, consider
 
 "No matter what you feed \\(f\\), it always returns five. Maybe \\(f\\) stands for five too. I can abstract away the argument from every \\(f\\) in my equation, and `CTRL+H` + `Replace All` to swap the \\(f\\)s for 5s. In that sense, \\(f=5\\), after all."
 
-
+---
 
 **Served cold, and exacted in full.**
