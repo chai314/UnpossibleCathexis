@@ -1,7 +1,6 @@
 <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
 <script>
-    const encodedStrings1 = ["What subculture is evinced by Ike's clothes and his shtick,\n\
-        by the non-Semitic contours of his nose and his dick?"];
+    const encodedStrings1 = ["The theorems of mathematics all say the same thing,\nnamely, nothing"];
     const encodedStrings = [
         "A continuation of the dream you saw yesterday",
         "What subculture is evinced by Ike's clothes and his shtick,\n\
@@ -44,10 +43,11 @@
         "A cricket asleep amidst silver dollars in the humidor",
         "Thnks fr th mmrs, evn thgh thy wrnt so grt",
         "I second that. I third it.\nThe council of Me concurs",
-        "The perfect analogy is perfectly useless",
+        "A perfect analogy is perfectly useless",
         "ABC is a theorem in Kyoto and a conjecture everywhere else",
         "As I said, I don't repeat myself",
         '"yields falsehood when preceeded by its quote"\nyields falsehood when preceeded by its quote',
+        "The theorems of mathematics all say the same thing,\nnamely, nothing",
     ];
 
 
@@ -69,7 +69,7 @@
 <script>
     strlist = encodedStrings.map(str => str.replace(/\n/g, "<br>"))
                             .sort(() => Math.random()-0.5);
-    new TypeIt("#random-string", {
+new TypeIt("#random-string", {
       strings: strlist,
       breakLines: false,
       loop: true,

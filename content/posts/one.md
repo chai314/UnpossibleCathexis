@@ -1,5 +1,5 @@
 ---
-title: "On the derivative of a linear operator and abuse of notation"
+title: "On the derivative of a linear operator with a little pedantry"
 date: 1924-09-14
 draft: false
 summary: "clearing up an abuse of notation"

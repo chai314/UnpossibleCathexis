@@ -216,7 +216,7 @@ showAuthor: false
   </strong></div>
   <div class="table-cell"><strong>Code</strong></div>
   <div class="table-cell"><strong>Name</strong></div>
-  <div class="table-cell"><strong>Remark!?</strong></div>
+  <div class="table-cell"><strong>Commentary</strong></div>
 </div>
   <div class="table-row">
     <div class="table-cell"><img class="square2" src="411.png" /></div>
@@ -248,7 +248,7 @@ showAuthor: false
     <div class="table-cell"><img class="square2" src="224.png" /></div>
     <div class="table-cell">MA224</div>
     <div class="table-cell">Real Anal. and<br>Measure Theory</div>
-    <div class="table-cell">Lebesgue you too.</div>
+    <div class="table-cell">Baby Rudin's as terse as they say</div>
   </div>
   <div class="table-row">
     <div class="table-cell"><img class="square2" src="252-unused.png" /></div>
