@@ -1,5 +1,5 @@
 ---
-title: "On the derivative of a linear operator, and abuse of notation"
+title: "On the derivative of a linear operator and abuse of notation"
 date: 1924-09-14
 draft: false
 summary: "clearing up an abuse of notation"
@@ -127,8 +127,16 @@ Look at \\(f'=f\\) again. What went wrong? Dwell over it now because I'd love to
 
 
 
-Well, to begin with, that \\(f( x) =ax\\) while \\(f'( x) \equiv a\\) already sparks skepticism. Could they be equal, as if! The solution to the misunderstanding is that the right equation is \\(f'( x) \equiv f\\), and not \\(f'=f\\).
+Well, to begin with, that \\(f( x) =ax\\) while \\(f'( x) \equiv a\\) already sparks skepticism. Could they be equal, as if! The solution to the misunderstanding is:
 
+\\[
+\begin{align*}
+f'( x) &{\equiv} f \\\
+f'  \quad \ \  &\boldsymbol{\neq} f \\\
+f'( x) &\boldsymbol{\neq} f(x) \\\
+f' \quad \ \ &\boldsymbol{\neq} f(x) \\\
+\end{align*}
+\\]
 
 
 ## Mandatory proof
