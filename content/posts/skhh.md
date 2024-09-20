@@ -3,13 +3,13 @@ title: "Strong Kitty Highway Heartbreak"
 date: 2024-08-19
 draft: false
 summary: "July Writing Challenge, Literary Society"
-tags: ["cartoon","gym","bar","traintop","nowhere"]
+tags: ["cartoon","gym","bar","traintop","nowhere","shitpost"]
 categories: ["owo what's this"]
 showHeadingAnchors: true
 showTableOfContents: true
 ---
 
-*Written for LitSoc July Writing event, only because I was told not to.*
+*Written for LitSoc July Writing, only because I was told not to.*
 
 ---
 
@@ -36,7 +36,7 @@ Wonderful. So spit it out already. You got a thing for single gymnasium insuranc
 <p align='right'>  
   No.    
 </p>
-Tommy now you see, I do enjoy our little meetings, I really do. Cross my cheques and hope my bank rupts. But I tire when you give me that paucity of verbosity of a monk under oath.  
+Tommy, now you see, I do enjoy our little meetings, I really do. Cross my cheques and hope my bank rupts. But I tire when you give me that paucity of verbosity of a monk under oath.  
 <p align='right'>  
  ...  
 </p>
@@ -47,7 +47,7 @@ See, do you see? Stare straight into my eyes right now, Tom. I'm not here to bat
   I'll take them on. And I'm sorry.
 </p>
 
-I know, Thomas, I know you're filled with remorse and you don't mean to pulverize our property but you just can't help but be the rippling, striated, shimmering, serrated monster fourteen and a half standard deviations ahead of the curve that you are with that body, that coruscating musculature of a classical Hero, and you just can't help it when repressed memories effervesce their miasmic fumes from under sheets and sheets of your subconscious scaffolding, and the pop of the bubbles is Greek fire, napalm to your mind, ice so cold it burns, radioactive stellar bursts in an infant's sickly yawn, the weeping venom of the widow in black now consigning to her fate in maritiphagy[^1], her rank tragedy the utmost kinography to Mother Nature dearest, wickedest, with malice aforementioned. So I don't scold ya; I'm not your mum or anyone else's for that matter. But man, you gotta get help. Pains me to do this, trust me, but it's the bad that happens for your own good. You're banned from all gyms in the country – don't doubt it, I've got a lot of friends. As for gyms outside the country... do you think The Hulk flew economy?  
+I know, Thomas, I know that you're filled with remorse and you don't mean to pulverize our property but you just can't help but be the rippling, striated, shimmering, serrated monster fourteen and a half standard deviations ahead of the curve that you are with that body, that coruscating musculature of a classical Hero, that you just can't help it when repressed memories effervesce their miasmic fumes from under sheets and sheets of your subconscious scaffolding, and the pop of the bubbles is Greek fire, napalm to your mind, ice so cold it burns, radioactive stellar bursts in an infant's sickly yawn, the weeping venom of the widow in black now consigning to her fate in maritiphagy[^1], her rank tragedy the utmost kinography to Mother Nature dearest, wickedest, with malice aforementioned. So I don't scold ya; I'm not your mum or anyone else's for that matter. But man, you gotta get help. Pains me to do this, trust me, but it's the bad that happens for your own good. You're banned from all gyms in the country – don't doubt it, I've got a lot of friends. As for gyms outside the country... do you think The Hulk flew economy?  
 <p align='right'>  
   I get it.  
 </p>
@@ -93,7 +93,7 @@ Mm. Nip.
 
 You're preoccupied today; got something on your mind?
 
-Only thoughts of three Gin Catatonics[^3], cold as industry steel, monarchy in the Middle Ages, and a sperm whale's habitat, respectively. And of you loosening that nip real well good.
+Only thoughts of three Gin Catatonics[^3], cold as industry steel, monarchy in the Middle Ages, and a sperm whale's habitat, respectively. And of you, loosening that nip real well good.
 
 Ya know whatcha problem is? Kick this ass, bury those bones. Violence, via lens. Violins! Rember… Remember Gandhi. Yeeeees. Think ahf him. Work that heada yers. Think tomcat, fer once in yer miseribble lahf. This is wah Mamma Two Shoes kicked ya out like an alley cat. Hobo.
 
@@ -101,11 +101,11 @@ So you're cut off. Be a doll and pass me his mug? Thank you.
 
 Okay, I feel bad now, I honestly do. Tell me Toodles, what happens at 9?
 
-Happy Hour. A real happy bunch of regulars shows up. It’s a sight to see. They come in motorbikes a-skiddin', burnt rubber kissing linoleum, hoist three sheets to the wind, order like apes in a banquet buffet, break half their plates, steal our silverware... it's a whole circle of Hell.
+Happy Hour. A real happy bunch of regulars shows up. It’s a sight to see. They come in motorbikes a-skiddin', burnt rubber kissing linoleum, hoisting three sheets to the wind, ordering like apes in a banquet buffet, breaking half their plates, stealing our silverware... it's a whole circle of Hell.
 
 And you let them.
 
-The capo is loaded. Wires us plenty of compensation for entertaining his halfwits. As for the other customers, well, they find it in their best interests to abscond at the sortie lickety-split. Speak of the devils... you see them?
+The capo is loaded. Wires us plenty of compensation for entertaining his halfwits. As for the other customers, well, they find it in their best interests to abscond at the sortie, lickety-split. Speak of the devils... you see them?
 
 They’re hard to miss Toods. You’ve got a hoodlum problem. Need to put up a *No Mohawks* sign ‘round here. And the gin… think I’ll take the whole bottle.
 
@@ -127,7 +127,7 @@ Traintop, Moribund
 {{< /lead >}}
 
 
-Unlimited braggadocio! Young one, I hear you, but–
+Unlimited braggadocio! Young one, I hear you –
 
 You hear this pound? This death metal drum solo with the beats per minute of a black hummingbird’s flap. These frequencies to humanity, the chit-chat of quasars. This stampede of endorphins inundating every throbbing organ in my being. My muscles are a superheterodyne churning actin and myosin into liquid power and smoke-blue pain. I’m a reactor running on perpetual meltdown, the hull of my flesh a greenhouse dome ensnaring every ounce of obliteration I could unleash if I so willed so easily on this fragile Earth. My beloved planet. My cross to bear.
 
@@ -135,17 +135,21 @@ Man, that’s cool and all, but all I’m trying to –
 
 I’m adamantine. My piss is the Styx. All passengers aboard, may I have your attention, please? I said please, so I presume I have it. Kindly take a gander at the spectacle by your window-sides. This is the actual, glorious Styx, flush and lush, fetched to you tonight from the vault of the Gods. All at the cost of a cheap train ride? Boy, what a deal\!
 
-That’s not very decent, buddy. Clearly you’re not thinking straight. Just listen to me. 
+That’s not very decent buddy. Clearly you’re not thinking straight. Just listen to me. 
 
-Thank you, Spike\! Tom thought long and hard for once in his life. Gazed into the chasm and... you know what Tom saw? *Mise en abyme.* What Tom needs to do is stop giving a hang... Et tu, Toodles? Forced me to choose between you and my moral drive. You vivisect the fiber of my being, and proceed to throw me out... no different from that hag Two Shoes. 
+Thank you, Spike\! Tom thought long and hard for once in his life. Gazed into the chasm and... you know what Tom saw? *Mise en abyme.* What Tom needs to do is stop giving a hang... Et tu, Toodles? Forced me to choose between you and my moral drive. You vivisect the fiber of my being, and proceed to throw me out, just like that hag Two Shoes did.
 
 Buddy, Tom? I’m Tom too – I’m Thomas the Tank Engine. Tom, I need you to shut up and listen clearly. I’m gonna slow down at that bend, you’re gonna hop off, and we’re gonna agree to agree that it’s just not your day.
 
 …Thomas. You’re me?
 
-Zip it, I said. God. You’ve broken the locomotive law tonight more times than I can count on my cars. But no cops need to know about this scene you made atop my engine, if you just go now. Capisce?
+Zip it, I said. God. You have broken the locomotive law tonight more times than I can count on my cars. But no cops need to know about this scene you've made atop my engine, if you just go now. Capisce?
 
-Thomas, my friend. I am the exegesis of a schizo’s magnum opus. My middle name is Bazooka. I’m a pyramid of deliriants served upon a magnifying glass. A kitty of prey, the apex, the lionized one. Thomas, I concede. From this moment on I’ll never judge, never jury, never execute. My impalpable limits will remain the only unknown, the true Beyond.
+Thomas, my friend. I am the exegesis of a schizo’s magnum opus. My middle name is Bazooka. I’m a pyramid of deliriants served upon a magnifying glass. A kitty of prey, the apex, the lionized one. 
+
+No doubt.
+
+Thomas, I concede. From this moment on I’ll never judge, never jury, never execute. My impalpable limits will remain the only unknown, the true Beyond.
 
 O-kaaay. Almost there. Be ready to take off, bud.
 
@@ -157,7 +161,7 @@ Thomas, I’m not going.
 
 You’re shitting me right now. Don’t mistake my munificence for naivety, alley cat. I could sue you till you’re silicates on the ground and throw in a holiday package behind bars for good measure.
 
-No, my friend. I’m done. I was birthed from the nitrogen cycle, and these muscles are weepin' buckets to see their mama. Will you heed my wish, Thomas, my only friend? I have truly felt tonight for once, on this journey with you, the company of an Other. I want you to be my final friend, the very ultimate. I will doze off any moment now, Thomas. I ask this of you, the very soul of munificence, my final friend, to be so kind as to dispose of my body when to-morrow comes. I want to go down in the midst of stinging veisalgia, as far away from this town as I can. Can you do that for me, Thomas?
+No, my friend. I’m done. I'm the firstborn of the nitrogen cycle, and these muscles are weepin' buckets to see their mama. Will you heed my wish, Thomas, my only friend? I have truly felt tonight for once, on this journey with you, the company of an Other. I want you to be my final friend, the very ultimate. I will doze off any moment now, Thomas. I ask this of you, the very soul of munificence, my final friend, to be so kind as to dispose of my body when to-morrow comes. I want to go down in the midst of stinging veisalgia, as far away from this town as I can. Can you do that for me, Thomas?
 
 Damn it. God damn it. Why me\!
 
@@ -177,13 +181,13 @@ Dawn, medium nusquam
 {{< /lead >}}
 </i></center>
 
-You’re awake at last. You know, I hated you at first sight. Nothing you said for the next thirty minutes helped in any manner. But when you finally slipped into slumber, curling up like a newly born kitten on my head, unkempt fur met metal, and I couldn’t help but feel… I can’t put it in words, but it made my heart churn, Tom. Guess I’m vulnerable to Stockholm, who knew. Haha. I’m just rambling, so… So. I’ve decided to cheat your last wish. 
+You’re awake at last. You know, I hated you at first sight. Nothing you said for the next thirty minutes helped in any manner. But when you finally slipped into slumber, curling up like a newborn kitten on my head, unkempt fur met metal, and I couldn’t help but feel… I can’t put it in words, but it made the burners in my heart churn, Tom. Guess I’m vulnerable to Stockholm, who knew. Haha. I’m just rambling, so… So. I’ve decided to cheat your last wish. 
 
 Uh, Stockholm… heart churn…
 
 Yes\! Live, Tom, for me. You’re not going anywhere on my watch. I’ll be your friend, but give me none of that “final” friend business. We’ll find you a new owner, or you could live… with me? Oh gosh… um, but only if you’re okay with that, of course. Let’s start over in this new town, Tom. Forget Toodles, forget Mamma. It’s time for Thomas and Tom. Tom and Thomas. Tommy and Tommy and a trillion adventures. Seize my metaphorical hand, Tom. Carpe diem\!
 
-*Pounding his astounded countenance into compliance, Tom removes the paw relieving his throbbing headache and steels himself, poising into an almighty, earth-shattering squat. The sheer impact of striking the pose sends seismic shudders quaking each lorry in the misfortunate locomotive. He heaves and he leaps, and a hundred wheels burst and give out at once. Carbon-steel donuts breathe their last in ear-bleeding screeches, sparkling in lurid pyrotechnics, the gelid light of the End. Tom picks up torque high in the troposphere, now rotating at cyclonic speeds and yet carrying himself with the grace of a (hungover) ballet dancer or a (hungover) competitive diver. The drop in atmospheric pressure draws humongous clouds cumulonimbus from a radius of ten kilometers into an astronomical coalescing mass. With what life is left in him, the very last ounces of strength in those mechanical eyes, Thomas drinks up the resplendence of the roaring muscles and their explosive vigor, the foretold brio and handsome panache of the Torino-10 impact headed his way, and his heart flutters throughout it all.*
+*Pounding his astounded countenance to compliance, Tom removes the paw relieving his throbbing headache and steels himself, poising into an almighty, earth-shattering squat. The sheer impact of striking the pose sends seismic shudders quaking each lorry in the misfortunate locomotive. He heaves and he leaps, and a hundred wheels burst and give out at once. Carbon-steel donuts breathe their last in ear-bleeding screeches, sparkling in lurid pyrotechnics, the gelid light of the End. Tom picks up torque high in the troposphere, now rotating at cyclonic speeds and yet carrying himself with the grace of a (hungover) ballet dancer or a (hungover) competitive diver. The drop in atmospheric pressure draws humongous clouds cumulonimbus from a radius of ten kilometers into an astronomical coalescing mass. With what life is left in him, the very last ounces of strength in those mechanical eyes, Thomas drinks up the resplendence of the roaring muscles and their explosive vigor, the foretold brio and handsome panache of the Torino-10 impact headed his way, and his heart flutters throughout it all.*
 
 <br>
 

@@ -1,5 +1,5 @@
 ---
-title: "Curse of Youth - Manthan"
+title: "Manthan, Sophomore Year"
 date: 2024-03-13
 draft: false
 summary: "Sophomore Entry for Manthan (Inter Hostel)"

@@ -136,6 +136,14 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # appId = "XXXXXX"
   # measurementId = "XXXXXX"
 
+  apiKey = "AIzaSyBe0UuFAjaLIXluihHrIlrbTKV_IDK7UMs"
+  authDomain = "ou-uc-1459d.firebaseapp.com"
+  projectId = "ou-uc-1459d"
+  storageBucket = "ou-uc-1459d.appspot.com"
+  messagingSenderId = "611708375363"
+  appId = "1:611708375363:web:58b27f43d333f7764edff6"
+  measurementId = "G-5D00BN89NJ"
+
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
