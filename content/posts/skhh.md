@@ -77,39 +77,43 @@ Poppycock\! Like 'ell ahm gonna letcha thera-piss out all 'ose savings, an' foww
 
 Liquor sure makes Spike chatty. My neural circuits involuntarily classify the slurred ramble as noise, killing it out from my active conscious perception.
 
-So does it you, Tom.
+So does it you, sugar.
 
 Ah, forgive me you must, Toodles. Didn't know I was saying that out loud. What's the barkeep feelin' like tonight?
 
-She's makin' do and can't complain. Tippier the tipsier they get, good customers all day round. Mm, 'cept at 21 o' clock every day, though.
+She's makin' do and can't complain. Tippier the tipsier they get, good customers all day round. Mm, 'cept at 23 o' clock every day, though.
 
 T, I hate saying this, and I really regret being vague, but I was asking what you've got stocked to black me out tonight.
 
 *She balls her fist and puts it to her head, sticking her tongue out.*
 
-That was on you, yeah. I've got that fancy catnip you were meaning to try. Mozambique.
+That was on you, yeah. I've got that fancy catnip you were meaning to try. Top-shelf, Mozambique.
 
 Mm. Nip.
 
-You're preoccupied today; got something on your mind?
+You're sorta preoccupied today, Tom. Got something on your mind?
 
-Only thoughts of three Gin Catatonics[^3], cold as industry steel, monarchy in the Middle Ages, and a sperm whale's habitat, respectively. And of you, loosening that nip real well good.
+Only thoughts of three Gin Catatonics[^3], cold as industry steel, monarchy in the Middle Ages, and a sperm whale's habitat, respectively. And of you, Toods, loosening that nip real well good.
 
 Ya know whatcha problem is? Kick this ass, bury those bones. Violence, via lens. Violins! Rember… Remember Gandhi. Yeeeees. Think ahf him. Work that heada yers. Think tomcat, fer once in yer miseribble lahf. This is wah Mamma Two Shoes kicked ya out like an alley cat. Hobo.
 
 So you're cut off. Be a doll and pass me his mug? Thank you.
 
-Okay, I feel bad now, I honestly do. Tell me Toodles, what happens at 9?
+Okay, I feel bad now, I honestly do. Tell me Toodles, what happens at 11?
 
 Happy Hour. A real happy bunch of regulars shows up. It’s a sight to see. They come in motorbikes a-skiddin', burnt rubber kissing linoleum, hoisting three sheets to the wind, ordering like apes in a banquet buffet, breaking half their plates, stealing our silverware... it's a whole circle of Hell.
 
 And you let them.
 
-The capo is loaded. Wires us plenty of compensation for entertaining his halfwits. As for the other customers, well, they find it in their best interests to abscond at the sortie, lickety-split. Speak of the devils... you see them?
+The capo is loaded. Wires us plenty of compensation for entertaining his halfwits. As for the other customers, well, they find it in their best interests to abscond at the sortie, lickety-split. 
+
+No shit.
+
+Speak of the devils... you see them?
 
 They’re hard to miss Toods. You’ve got a hoodlum problem. Need to put up a *No Mohawks* sign ‘round here. And the gin… think I’ll take the whole bottle.
 
-Unball that fist, Tom. You will guzzle your gins in situ, and you will turn a blind eye. I don’t want you stirring a scene that risks the preponderance of our turnover. Let me be clear: we do not defenestrate customers at the Toodle-O, especially the cash cows, no matter how cattle-like their etiquette.  
+Unball that fist, Tom. You will guzzle your gins in situ, and you will turn a blind eye. I don’t want you stirring a scene that risks the preponderance of our turnover. Let me be clear: we do not defenestrate customers here at the Toodle-O, especially the cash cows, no matter how cattle-like their etiquette.  
 
 They’re scum. I’m seething. You can’t accept this.
 
@@ -127,27 +131,27 @@ Traintop, Moribund
 {{< /lead >}}
 
 
-Unlimited braggadocio! Young one, I hear you –
+Unlimited braggadocio! Young one, I hear you, yet –
 
 You hear this pound? This death metal drum solo with the beats per minute of a black hummingbird’s flap. These frequencies to humanity, the chit-chat of quasars. This stampede of endorphins inundating every throbbing organ in my being. My muscles are a superheterodyne churning actin and myosin into liquid power and smoke-blue pain. I’m a reactor running on perpetual meltdown, the hull of my flesh a greenhouse dome ensnaring every ounce of obliteration I could unleash if I so willed so easily on this fragile Earth. My beloved planet. My cross to bear.
 
 Man, that’s cool and all, but all I’m trying to –
 
-I’m adamantine. My piss is the Styx. All passengers aboard, may I have your attention, please? I said please, so I presume I have it. Kindly take a gander at the spectacle by your window-sides. This is the actual, glorious Styx, flush and lush, fetched to you tonight from the vault of the Gods. All at the cost of a cheap train ride? Boy, what a deal\!
+I’m adamantine. My piss is the Styx. All passengers aboard, may I have your attention, please? I said please, so I presume I have it. Kindly take a gander at the spectacle by your window-sides. This is the actual, glorious Styx, flush and lush, fetched to you tonight from the vault of the Gods. All at the modest cost of a cheap train ride? Boy, what a buy. What a bargain of the billions\!
 
 That’s not very decent buddy. Clearly you’re not thinking straight. Just listen to me. 
 
-Thank you, Spike\! Tom thought long and hard for once in his life. Gazed into the chasm and... you know what Tom saw? *Mise en abyme.* What Tom needs to do is stop giving a hang... Et tu, Toodles? Forced me to choose between you and my moral drive. You vivisect the fiber of my being, and proceed to throw me out, just like that hag Two Shoes did.
+Thank you, Spike\! Tom thought long and hard for once in his life. Gazed into the chasm and... you know what Tom saw? *Mise en abyme.* What Tom needs to do is stop giving a hang... Et tu, Toodles? Forced me to choose between you and my moral drive. You vivisect the fiber of my being, and proceed to throw me out... just like that hag Two Shoes.
 
-Buddy, Tom? I’m Tom too – I’m Thomas the Tank Engine. Tom, I need you to shut up and listen clearly. I’m gonna slow down at that bend, you’re gonna hop off, and we’re gonna agree to agree that it’s just not your day.
+Buddy, Tom? I’m Tom too – I’m Thomas the Tank Engine. Tom, I need you to cease your yap and shut your trap and listen to me clearly. For five flaming seconds, can you do that, Tom? Are you listening? Now I’m gonna slow down at that bend, and you’re gonna hop off, and we’re gonna agree to agree that it’s just not your day.
 
 …Thomas. You’re me?
 
-Zip it, I said. God. You have broken the locomotive law tonight more times than I can count on my cars. But no cops need to know about this scene you've made atop my engine, if you just go now. Capisce?
+Zip it, I said. God. You have broken the locomotive law tonight more times than I can count on my cars. But I'm a reasonable tank engine. No cops need to know about this scene you've made atop my upper deck, if you just go now. Capisce?
 
 Thomas, my friend. I am the exegesis of a schizo’s magnum opus. My middle name is Bazooka. I’m a pyramid of deliriants served upon a magnifying glass. A kitty of prey, the apex, the lionized one. 
 
-No doubt.
+You are, aren't you. No doubt.
 
 Thomas, I concede. From this moment on I’ll never judge, never jury, never execute. My impalpable limits will remain the only unknown, the true Beyond.
 
@@ -159,7 +163,7 @@ Oh, join the club. Find a good shrink. We part ways here; sayonara, tomcat.
 
 Thomas, I’m not going.
 
-You’re shitting me right now. Don’t mistake my munificence for naivety, alley cat. I could sue you till you’re silicates on the ground and throw in a holiday package behind bars for good measure.
+You’re shitting me right now. Don’t mistake my munificence for naivety, alley cat. I could sue you till you’re silicates on the ground and toss in a holiday package behind bars for good measure.
 
 No, my friend. I’m done. I'm the firstborn of the nitrogen cycle, and these muscles are weepin' buckets to see their mama. Will you heed my wish, Thomas, my only friend? I have truly felt tonight for once, on this journey with you, the company of an Other. I want you to be my final friend, the very ultimate. I will doze off any moment now, Thomas. I ask this of you, the very soul of munificence, my final friend, to be so kind as to dispose of my body when to-morrow comes. I want to go down in the midst of stinging veisalgia, as far away from this town as I can. Can you do that for me, Thomas?
 

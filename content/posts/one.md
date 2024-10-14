@@ -1,5 +1,5 @@
 ---
-title: "On the derivative of a linear operator with a little pedantry"
+title: "On the derivative of a linear operator with a pedantic prescription to purge a pet peeve"
 date: 1924-09-14
 draft: false
 summary: "clearing up an abuse of notation"
@@ -25,6 +25,8 @@ In other words, \\(T\\) distributes over adding and commutes with scaling.
 In other other words, 
 
 \\(T \circ \text{add}( \ast ,\ast ) \equiv \text{add}( T\ast ,T\ast )\\) and \\(T\circ \text{mult}\_{a} \equiv \text{mult}_{a} \circ T\\)
+
+In cat. theory speak, \\( T \\) is an arrow in \\(\text{Hom}[\mathbb{R}^n,\mathbb{R}^n] \\) in the category of \\(\textbf{Vect}_\mathbb{R}\\)
 
 Okay, no more obfuscation; promise.
 
@@ -123,7 +125,7 @@ This is a source of confusion which stems from a notorious abuse of notation. Cl
 
 
 
-Look at \\(f'=f\\) again. What went wrong? Dwell over it now because I'd love to spoil you.
+Look at \\(f'=f\\) again. What went wrong? Dwell over it now; spoilers abound below.
 
 
 
@@ -220,11 +222,11 @@ We can overload the operators to accept sets, leading to the more succinct notat
 
 From this it is an exercise to the reader to see that \\(( T'( x) -T)\mathbb{R}^{n} =\\{\vec{0}\\}\\)
 
-(Hint: For any \\(y\in \mathbb{R}^{n}\\), \\(y=||y||\cdotp \hat{y}\\), and that map is linear)
+(Hint: For any \\(y\in \mathbb{R}^{n}\\), \\(y=||y||\cdotp \hat{y}\\), and, that difference of maps is linear)
 
 
 
-And that means \\(T'( x) -T=\hat{0} ,\\) or \\(T'( x) =T\\), independent of our choice of x. **A constant map.**
+That means \\(T'( x) -T=\hat{0} ,\\) or \\(T'( x) =T\\), independent of our choice of x. **A constant map.**
 
 
 
@@ -275,7 +277,7 @@ The first is the identity map. We use 1 to denote it, abusing the isomorphism of
 
 \\[
 \begin{align*}
-\mathcal{M} =\\{mult_{a}( \ast ) :\ a\in \mathbb{R}\\}.
+\mathcal{M} =\\{\text{mult}_a( \ast ) :\ a\in \mathbb{R}\\}.
 \end{align*}
 \\]
 

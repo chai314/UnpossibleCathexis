@@ -12,7 +12,7 @@ title = "Unpossible Cathexis"
   #logo = "img/logo.png"
   #secondaryLogo = "img/secondary-logo.png"
   description = "My awesome website"
-  copyright = "© 2024"
+  copyright = "This is NOT a blog.<br>© 2024"
 
 [author]
   name = "chai."
