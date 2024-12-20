@@ -6,6 +6,7 @@ summary: "July Writing Challenge, Literary Society"
 tags: ["cartoon","gym","bar","traintop","nowhere","shitpost"]
 categories: ["owo what's this"]
 showHeadingAnchors: true
+weight: 10 # add weight sort
 showTableOfContents: true
 ---
 

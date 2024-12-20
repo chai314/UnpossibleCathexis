@@ -43,6 +43,14 @@ showAuthor: false
   padding: 5px;
   text-align: center;
 }
+.new-icon {
+  background-color: #007BFF;
+  color: white;
+  font-size: 0.8em;
+  padding: 3px 6px;
+  border-radius: 5px;
+  margin-right: 8px;
+}
 </style>
 
 ## Experience
@@ -218,6 +226,40 @@ showAuthor: false
   <div class="table-cell"><strong>Name</strong></div>
   <div class="table-cell"><strong>Commentary</strong></div>
 </div>
+
+<div class="table-row">
+  <div class="table-cell">
+    <img class="square2" src="321.png" />
+  </div>
+  <div class="table-cell">
+    <span class="new-icon">EW</span> MA321
+  </div>
+  <div class="table-cell">Optimization</div>
+  <div class="table-cell">The worst.</div>
+</div>
+
+<div class="table-row">
+  <div class="table-cell">
+    <img class="square2" src="371.png" />
+  </div>
+  <div class="table-cell">
+    <span class="new-icon">NEW</span> MA371
+  </div>
+  <div class="table-cell">Stochastic<br>Calculus</div>
+  <div class="table-cell">First fun finance course.<br>Shreve's a hero</div>
+</div>
+
+<div class="table-row">
+  <div class="table-cell">
+    <img class="square2" src="323.png" />
+  </div>
+  <div class="table-cell">
+    <span class="new-icon">NEW</span> MA323
+  </div>
+  <div class="table-cell"><a href="https://github.com/chai314/marco-polo">Monte Carlo</a></div>
+  <div class="table-cell">Never forget we asked prof to download default libraries</div>
+</div>
+
   <div class="table-row">
     <div class="table-cell"><img class="square2" src="411.png" /></div>
     <div class="table-cell">MA411</div>
