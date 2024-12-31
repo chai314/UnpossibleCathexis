@@ -95,9 +95,9 @@ I have talked successfully to our ultimate bus driver (who had spent some time i
 
 I have felt seventeen again.
 
-To “Guys, \[since\] we’ve all grown closer thanks to Inter-IIT in these past seven days \[...blah…blah…\]”, I have said No Way, and meant Yes.
+To “Guys, \[since\] we’ve all grown closer thanks to Inter-IIT in these past seven days \[...blah…blah…\]”, I have said No Way, 
 
-<br>
+and meant Yes.
 
 ---
 # Footnotes
