@@ -2,9 +2,10 @@
 title: "On the derivative of a linear operator with a pedantic prescription to purge a pet peeve"
 date: 1924-09-14
 draft: false
-summary: "clearing up an abuse of notation"
+summary: "**Clearing up a notorious abuse of notation**"
 tags: ["differential geo","operators","derivative","abuse of notation"]
 categories: ["math"]
+showSummary: true
 showHeadingAnchors: true
 showTableOfContents: true
 ---

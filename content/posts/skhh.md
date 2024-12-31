@@ -2,16 +2,13 @@
 title: "Strong Kitty Highway Heartbreak"
 date: 2024-08-19
 draft: false
-summary: "July Writing Challenge, Literary Society"
+summary: "**Written for LitSoc July Writing, only because I was told not to.**"
 tags: ["cartoon","gym","bar","traintop","nowhere","shitpost"]
 categories: ["owo what's this"]
 showHeadingAnchors: true
+showSummary: true
 weight: 10 # add weight sort
 showTableOfContents: true
----
-
-*Written for LitSoc July Writing, only because I was told not to.*
-
 ---
 
 {{< lead >}}
