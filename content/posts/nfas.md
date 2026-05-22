@@ -1,0 +1,17 @@
+---
+title: "notes from the chef / Nonsense for Aunt's Sake"
+date: 2025-04-02
+draft: false
+summary: "**SALSA, Annual Lit-Soc Anthology, 2025**"
+tags: ["nonsense","aunt","salsa","editorial"]
+categories: ["uwu what's this"]
+showSummary: true
+showHeadingAnchors: true
+showTableOfContents: true
+---
+
+![](img/NFAS-salsa1.png)
+![](img/NFAS-salsa2.png)
+![](img/NFAS-salsa3.png)
+![](img/NFAS-salsa4.png)
+![](img/NFAS-salsa5.png)
